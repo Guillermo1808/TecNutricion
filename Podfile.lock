@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - FSCalendar (2.8.1)
+  - SideMenu (6.4.8)
+
+DEPENDENCIES:
+  - Charts
+  - FSCalendar
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - FSCalendar
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  SideMenu: 4a891be552d30bb6fa87ad404d62e485f8450c34
+
+PODFILE CHECKSUM: 7f6082a029e925f304f34aa785c38c29699cec83
+
+COCOAPODS: 1.9.2
